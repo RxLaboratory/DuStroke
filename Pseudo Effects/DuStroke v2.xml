@@ -1,0 +1,93 @@
+<Effect matchname="Pseudo/DUDUF Stroke v2.0.0" name="$$$/AE/Preset/DUDUFStrokev2.0.0=DuStroke">
+	<Slider name="$$$/AE/Preset/Size=Size" default="100" slider_min="0" slider_max="200" valid_min="0" valid_max="10000" precision="1" DISPLAY_PERCENT="true" />
+	<Slider name="$$$/AE/Preset/Taper=Taper" default="0" slider_min="-100" slider_max="200" valid_min="-10000" valid_max="10000" precision="1" DISPLAY_PERCENT="true" />
+	<Color name="$$$/AE/Preset/BaseColor=Base Color" default_red="255" default_green="0" default_blue="0" />
+	<Color name="$$$/AE/Preset/SecondaryColor=Secondary Color" default_red="38" default_green="0" default_blue="255" />
+	<Group name="$$$/AE/Preset/Stroke=Stroke" >
+		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="2" />
+		<Slider name="$$$/AE/Preset/End=End" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="2" />
+		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="2" />
+		<Slider name="$$$/AE/Preset/Pathalignment=Path alignment" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="1" />
+	</Group>
+	<Group name="$$$/AE/Preset/Brush=Brush" >
+		<Group name="$$$/AE/Preset/Standard=Standard" >
+			<Popup name="$$$/AE/Preset/Startcap=Start cap" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O" />
+			<Popup name="$$$/AE/Preset/Shape=Shape" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O" />
+			<Popup name="$$$/AE/Preset/Endcap=End cap" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O" />
+			<Slider name="$$$/AE/Preset/Density=Density" default="250" slider_min="1" slider_max="300" valid_min="1" valid_max="1000" precision="0" />
+		</Group>
+		<Group name="$$$/AE/Preset/Custom=Custom" >
+			<Layer name="$$$/AE/Preset/Textlayer=Text layer" default_self="false" />
+			<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="As is|Repeat|Randomize" />
+			<Slider name="$$$/AE/Preset/Density=Density" default="250" slider_min="1" slider_max="300" valid_min="1" valid_max="1000" precision="0" />
+		</Group>
+		<Checkbox name="$$$/AE/Preset/Orienttopath=Orient to path" hold="true" default="true" />
+		<Checkbox name="$$$/AE/Preset/DynamicRotation=Dynamic Rotation" hold="true" default="true" />
+		<Slider name="$$$/AE/Preset/BlendOpacity=Blend Opacity" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+	</Group>
+	<Group name="$$$/AE/Preset/Taper=Taper" >
+		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="true" />
+		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle|Round|Smooth" />
+		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/End=End" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-100" slider_max="100" valid_min="-100" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/Pathalignment=Path alignment" default="0" slider_min="-1000" slider_max="1000" valid_min="-10000" valid_max="10000" precision="1" DISPLAY_PERCENT="true" />
+	</Group>
+	<Group name="$$$/AE/Preset/Color=Color" >
+		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="true" />
+		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle" />
+		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/End=End" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-100" slider_max="100" valid_min="-100" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+	</Group>
+	<Group name="$$$/AE/Preset/Opacity=Opacity" >
+		<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="0" DISPLAY_PERCENT="true" />
+		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="true" />
+		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle|Round|Smooth" />
+		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/End=End" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-100" slider_max="100" valid_min="-100" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+	</Group>
+	<Group name="$$$/AE/Preset/Blur=Blur" >
+		<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" />
+		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="true" />
+		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle|Round|Smooth" />
+		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/End=End" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-100" slider_max="100" valid_min="-100" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+	</Group>
+	<Group name="$$$/AE/Preset/Randomness=Randomness" >
+		<Group name="$$$/AE/Preset/Size=Size" >
+			<Slider name="$$$/AE/Preset/Value=Value" default="100" slider_min="0" slider_max="200" valid_min="0" valid_max="10000" precision="1" DISPLAY_PERCENT="true" />
+			<Slider name="$$$/AE/Preset/Quantity=Quantity" default="50" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+			<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="2" popup_string="Sharp|Smooth" />
+		</Group>
+		<Group name="$$$/AE/Preset/Spread=Spread" >
+			<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="1" />
+			<Slider name="$$$/AE/Preset/Quantity=Quantity" default="50" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+			<Slider name="$$$/AE/Preset/Flow=Flow" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="1" />
+			<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="2" popup_string="Sharp|Smooth" />
+		</Group>
+		<Group name="$$$/AE/Preset/Flow=Flow" >
+			<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="1" />
+			<Slider name="$$$/AE/Preset/Quantity=Quantity" default="50" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+		</Group>
+		<Group name="$$$/AE/Preset/Color=Color" >
+			<Slider name="$$$/AE/Preset/Quantity=Quantity" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+			<Color name="$$$/AE/Preset/Color=Color" default_red="0" default_green="255" default_blue="0" />
+			<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="2" popup_string="Sharp|Smooth" />
+		</Group>
+		<Group name="$$$/AE/Preset/Opacity=Opacity" >
+			<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="0" DISPLAY_PERCENT="true" />
+			<Slider name="$$$/AE/Preset/Quantity=Quantity" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+			<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="2" popup_string="Sharp|Smooth" />
+		</Group>
+		<Group name="$$$/AE/Preset/Blur=Blur" >
+			<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="0" slider_max="1000" valid_min="0" valid_max="1000" precision="1" />
+			<Slider name="$$$/AE/Preset/Quantity=Quantity" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
+			<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="2" popup_string="Sharp|Smooth" />
+		</Group>
+		<Slider name="$$$/AE/Preset/Seed=Seed" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="32000" precision="0" />
+		<Checkbox name="$$$/AE/Preset/Uniqueseed=Unique seed" hold="true" default="false" />
+	</Group>
+</Effect>
