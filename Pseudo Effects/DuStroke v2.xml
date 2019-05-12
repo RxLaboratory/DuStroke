@@ -1,4 +1,4 @@
-<Effect matchname="Pseudo/DUDUF Stroke v2.0.0" name="$$$/AE/Preset/DUDUFStrokev2.0.0=DuStroke">
+<Effect matchname="Pseudo/DUDUF Stroke v2.0.1" name="$$$/AE/Preset/DUDUFStrokev2.0.1=DuStroke">
 	<Slider name="$$$/AE/Preset/Size=Size" default="100" slider_min="0" slider_max="200" valid_min="0" valid_max="10000" precision="1" DISPLAY_PERCENT="true" />
 	<Slider name="$$$/AE/Preset/Taper=Taper" default="0" slider_min="-100" slider_max="200" valid_min="-10000" valid_max="10000" precision="1" DISPLAY_PERCENT="true" />
 	<Color name="$$$/AE/Preset/BaseColor=Base Color" default_red="255" default_green="0" default_blue="0" />
@@ -11,9 +11,9 @@
 	</Group>
 	<Group name="$$$/AE/Preset/Brushshape=Brush shape" >
 		<Group name="$$$/AE/Preset/Standard=Standard" >
-			<Popup name="$$$/AE/Preset/Startcap=Start cap" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O" />
-			<Popup name="$$$/AE/Preset/Shape=Shape" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O" />
-			<Popup name="$$$/AE/Preset/Endcap=End cap" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O" />
+			<Popup name="$$$/AE/Preset/Startcap=Start cap" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z" />
+			<Popup name="$$$/AE/Preset/Shape=Shape" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z" />
+			<Popup name="$$$/AE/Preset/Endcap=End cap" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z" />
 			<Slider name="$$$/AE/Preset/Density=Density" default="250" slider_min="1" slider_max="300" valid_min="1" valid_max="1000" precision="0" />
 		</Group>
 		<Group name="$$$/AE/Preset/Custom=Custom" >
@@ -32,7 +32,7 @@
 		<Slider name="$$$/AE/Preset/Flow=Flow" default="0" slider_min="-1000" slider_max="1000" valid_min="-32000" valid_max="32000" precision="1" />
 		<Slider name="$$$/AE/Preset/Randomcolor=Random color" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
 		<Color name="$$$/AE/Preset/Color=Color" default_red="0" default_green="255" default_blue="0" />
-		<Slider name="$$$/AE/Preset/Blur=Blur" default="0" slider_min="0" slider_max="1000" valid_min="0" valid_max="1000" precision="1" />
+		<Slider name="$$$/AE/Preset/DynamicBlur=Dynamic Blur" default="0" slider_min="0" slider_max="1000" valid_min="0" valid_max="1000" precision="1" />
 	</Group>
 	<Group name="$$$/AE/Preset/Taper=Taper" >
 		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="true" />
@@ -52,7 +52,7 @@
 	<Group name="$$$/AE/Preset/Opacity=Opacity" >
 		<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="0" DISPLAY_PERCENT="true" />
 		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="false" />
-		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle|Round|Smooth" />
+		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle" />
 		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
 		<Slider name="$$$/AE/Preset/End=End" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
 		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-100" slider_max="100" valid_min="-100" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
@@ -60,7 +60,7 @@
 	<Group name="$$$/AE/Preset/Blur=Blur" >
 		<Slider name="$$$/AE/Preset/Value=Value" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" />
 		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="false" />
-		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle|Round|Smooth" />
+		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle" />
 		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
 		<Slider name="$$$/AE/Preset/End=End" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
 		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-100" slider_max="100" valid_min="-100" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
@@ -68,7 +68,7 @@
 	<Group name="$$$/AE/Preset/Rotation=Rotation" >
 		<Angle name="$$$/AE/Preset/Angle=Angle" default="0" />
 		<Checkbox name="$$$/AE/Preset/Enabled=Enabled" hold="true" default="true" />
-		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle|Round|Smooth" />
+		<Popup name="$$$/AE/Preset/Mode=Mode" hold="true" CANNOT_TIME_VARY="true" default="1" popup_string="Ramp|Triangle" />
 		<Slider name="$$$/AE/Preset/Start=Start" default="0" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
 		<Slider name="$$$/AE/Preset/End=End" default="100" slider_min="0" slider_max="100" valid_min="0" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
 		<Slider name="$$$/AE/Preset/Offset=Offset" default="0" slider_min="-100" slider_max="100" valid_min="-100" valid_max="100" precision="1" DISPLAY_PERCENT="true" />
