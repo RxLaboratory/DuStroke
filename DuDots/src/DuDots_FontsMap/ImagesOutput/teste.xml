@@ -1,0 +1,448 @@
+<xml>
+  <info>
+    <size>560,635</size>
+    <name>new project</name>
+  </info>
+  <item>
+    <info>
+      <type>[object Image]</type>
+      <location>0,0</location>
+      <size>560,635</size>
+      <name>image_1</name>
+      <text></text>
+      <value>NaN</value>
+      <helpTip></helpTip>
+      <putInImg>undefined</putInImg>
+      <path>undefined</path>
+    </info>
+  </item>
+  <item>
+    <info>
+      <type>[object Group]</type>
+      <location>11,76</location>
+      <size>560,635</size>
+      <name>btContainer</name>
+      <text>undefined</text>
+      <value>NaN</value>
+      <helpTip></helpTip>
+      <color>NaN</color>
+    </info>
+    <group>
+      <item>
+        <info>
+          <type>[object Group]</type>
+          <location>0,0</location>
+          <size>650,101</size>
+          <name>row01</name>
+          <text>undefined</text>
+          <value>NaN</value>
+          <helpTip></helpTip>
+          <color>NaN</color>
+        </info>
+        <group>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>0,0</location>
+              <size>97,97</size>
+              <name>A</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>110,0</location>
+              <size>97,97</size>
+              <name>B</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>220,0</location>
+              <size>97,97</size>
+              <name>C</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>330,0</location>
+              <size>97,97</size>
+              <name>D</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>440,0</location>
+              <size>97,97</size>
+              <name>E</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+        </group>
+      </item>
+      <item>
+        <info>
+          <type>[object Group]</type>
+          <location>0,115</location>
+          <size>650,101</size>
+          <name>row02</name>
+          <text>undefined</text>
+          <value>NaN</value>
+          <helpTip></helpTip>
+          <color>NaN</color>
+        </info>
+        <group>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>0,0</location>
+              <size>97,97</size>
+              <name>F</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>110,0</location>
+              <size>97,97</size>
+              <name>G</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>220,0</location>
+              <size>97,97</size>
+              <name>H</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>330,0</location>
+              <size>97,97</size>
+              <name>I</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>440,0</location>
+              <size>97,97</size>
+              <name>J</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+        </group>
+      </item>
+      <item>
+        <info>
+          <type>[object Group]</type>
+          <location>0,225</location>
+          <size>650,101</size>
+          <name>row03</name>
+          <text>undefined</text>
+          <value>NaN</value>
+          <helpTip></helpTip>
+          <color>NaN</color>
+        </info>
+        <group>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>0,0</location>
+              <size>97,97</size>
+              <name>K</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>110,0</location>
+              <size>97,97</size>
+              <name>L</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>220,0</location>
+              <size>97,97</size>
+              <name>M</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>330,0</location>
+              <size>97,97</size>
+              <name>N</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>440,0</location>
+              <size>97,97</size>
+              <name>O</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+        </group>
+      </item>
+      <item>
+        <info>
+          <type>[object Group]</type>
+          <location>0,340</location>
+          <size>650,101</size>
+          <name>row05</name>
+          <text>undefined</text>
+          <value>NaN</value>
+          <helpTip></helpTip>
+          <color>NaN</color>
+        </info>
+        <group>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>0,0</location>
+              <size>97,97</size>
+              <name>&lt;rd&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>110,0</location>
+              <size>97,97</size>
+              <name>&lt;tx&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>220,0</location>
+              <size>97,97</size>
+              <name>&lt;tab&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>330,0</location>
+              <size>97,97</size>
+              <name>&lt;x&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>440,0</location>
+              <size>97,97</size>
+              <name>&lt;rp&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+        </group>
+      </item>
+      <item>
+        <info>
+          <type>[object Group]</type>
+          <location>0,450</location>
+          <size>650,101</size>
+          <name>row06</name>
+          <text>undefined</text>
+          <value>NaN</value>
+          <helpTip></helpTip>
+          <color>NaN</color>
+        </info>
+        <group>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>0,0</location>
+              <size>97,97</size>
+              <name>&lt;br&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>110,0</location>
+              <size>97,97</size>
+              <name>&lt;sc&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+          <item>
+            <info>
+              <type>[object IconButton]</type>
+              <location>220,0</location>
+              <size>97,97</size>
+              <name>&lt;ec&gt;</name>
+              <text></text>
+              <value>NaN</value>
+              <helpTip></helpTip>
+              <path>/f/GitHub Repos/DuStroke/DuStroke/DuDots/src/DuDots_FontsMap/ImagesOutput/97pxBlank.png</path>
+              <putInImg>\u0089PNG\r\n\x1A\n\x00\x00\x00\rIHDR\x00\x00\x00a\x00\x00\x00a\b\x03\x00\x00\x00\u00F1\u00D8?\u0091\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\u00C9e&lt;\x00\x00\x00\x06PLTE\u00FF\u00FF\u00FF\x00\x00\x00U\u00C2\u00D3~\x00\x00\x00\x01tRNS\x00@\u00E6\u00D8f\x00\x00\x00\"IDATx\u00DA\u00EC\u00C1\x01\r\x00\x00\x00\u00C2\u00A0\u00F7Om\x0F\x07\x14\x00\x00\x00\x00\x00\x00\x00\x00\u00C0\u00AB\t0\x00%\"\x00\x01\u00DC=\x1F\x07\x00\x00\x00\x00IEND\u00AEB`\u0082</putInImg>
+              <toolbutton>toolbutton</toolbutton>
+              <toggle>0</toggle>
+            </info>
+          </item>
+        </group>
+      </item>
+    </group>
+  </item>
+</xml>

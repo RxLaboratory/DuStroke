@@ -43,7 +43,7 @@ FontsMap.show();
 
 Brushes.onChange = function() {
     
-    FontsMap.remove(FontsMap.children[1]);
+    FontsMap.remove(image);
     image = FontsMap.add("image", undefined, File.decode(Images_array[ parseInt(Brushes.selection) ]) ); 
     FontsMap.layout.layout(1);
     
